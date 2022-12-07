@@ -1,13 +1,16 @@
 # KetchApp
 
- <img alt="KetchApp" src="https://github.com/aybarska/Movillium/blob/main/Screenshots/appLogo.png" width="20%">
+ <img alt="KetchApp" src="https://github.com/aybarska/KetchApp-RealTimeChatApp/blob/main/ss/ketchapp.png" width="20%">
+ 
+ Fully functional, real time chat application for iOS. Create your account and chat with your friends.
+ 
  
  Features
 ========
-+ Fully functional, real time chat application for iOS.
-+ Send text message, photos, videos, location, sound.
++ Send Text Messages, Photos, Videos, Location, Sound.
 + Login with Google, Facebook or create account.
 + Upload profile picture.
++ Search for users.
 + Error & Load handle.
 + Clean code.
 + Firebase auth and database.
@@ -20,6 +23,13 @@ Technologies
 2. MVC
 3. Firebase
 ..
+
+Upcoming...
+============
+1. E-mail verification 
+2. Group chats 
+3. Voice recording 
+
 
 
 ## Installation
@@ -39,13 +49,16 @@ Run .xcworkspace with Xcode
 ## Screenshots
   
   <p>
-  <img alt="KetchApp" src="https://github.com/aybarska/Movillium/blob/main/Screenshots/1.png" width="45%">
-   <img alt="KetchApp" src="https://github.com/aybarska/Movillium/blob/main/Screenshots/2.png" width="45%">
- <img alt="KetchApp" src="https://github.com/aybarska/Movillium/blob/main/Screenshots/3.png" width="45%">
- <img alt="KetchApp" src="https://github.com/aybarska/Movillium/blob/main/Screenshots/4.png" width="45%">
+  <img alt="KetchApp" src="https://github.com/aybarska/KetchApp-RealTimeChatApp/blob/main/ss/1.png" width="40%">
+   <img alt="KetchApp" src="https://github.com/aybarska/KetchApp-RealTimeChatApp/blob/main/ss/2.png" width="40%">
+ <img alt="KetchApp" src="https://github.com/aybarska/KetchApp-RealTimeChatApp/blob/main/ss/3.png" width="40%">
+ <img alt="KetchApp" src="https://github.com/aybarska/KetchApp-RealTimeChatApp/blob/main/ss/4.png" width="40%">
   </p>
-  <p align="center">
- <img alt="KetchApp" src="https://github.com/aybarska/Movillium/blob/main/Screenshots/5.png" width="45%">
+  
+  <p>
+ <img alt="KetchApp" src="https://github.com/aybarska/KetchApp-RealTimeChatApp/blob/main/ss/5.png" width="40%">
+  <img alt="KetchApp" src="https://github.com/aybarska/KetchApp-RealTimeChatApp/blob/main/ss/6.png" width="40%">
+   <img alt="KetchApp" src="https://github.com/aybarska/KetchApp-RealTimeChatApp/blob/main/ss/7.png" width="40%">
     </p>
     
     
